@@ -14,4 +14,4 @@ Output: The program generates a report that includes details of the analysis and
 Python libraries such as NumPy, SciPy, and matplotlib may be used for performing the numerical analysis and visualization of the results. Additionally, Python modules such as PyFEA and pyNite can be used to perform FEM analysis for structural elements. The resulting design can be further optimized using optimization libraries such as SciPy's optimization module.
 
 ![Front_View_of_Column_footing](https://user-images.githubusercontent.com/103347778/218698217-6e117781-8daa-4e73-850d-ca9818c01be6.png)
-![maxresdefault](https://user-images.githubusercontent.com/103347778/218698294-f779cb14-de95-4e02-be55-f3dd3743903d.jpg)
+<img width="505" alt="image" src="https://user-images.githubusercontent.com/103347778/218698522-82fc5070-5cce-45f2-b45c-c87eddc2a43d.png">
